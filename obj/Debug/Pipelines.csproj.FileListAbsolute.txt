@@ -1,0 +1,7 @@
+C:\Users\admin\NG2\C#\Pipelines\bin\Debug\Pipelines.exe.config
+C:\Users\admin\NG2\C#\Pipelines\bin\Debug\fuel.csv
+C:\Users\admin\NG2\C#\Pipelines\bin\Debug\Pipelines.exe
+C:\Users\admin\NG2\C#\Pipelines\bin\Debug\Pipelines.pdb
+C:\Users\admin\NG2\C#\Pipelines\obj\Debug\Pipelines.csprojResolveAssemblyReference.cache
+C:\Users\admin\NG2\C#\Pipelines\obj\Debug\Pipelines.exe
+C:\Users\admin\NG2\C#\Pipelines\obj\Debug\Pipelines.pdb
