@@ -27,8 +27,10 @@ namespace Pipelines
                 Console.Read();
                 return;
             }
-            var buffer1 = Buffers.GetBuffer(lines.Count());
-            var buffer2 = Buffers.GetBuffer(lines.Count());
+            var bufferSize = lines.Count();
+           
+            var buffer1 = Buffers.GetBuffer(bufferSize);
+            var buffer2 = Buffers.GetBuffer(bufferSize);
 
             Program p = new Program();
             var t0 = p.ReadStrings(buffer1, lines);
@@ -39,6 +41,7 @@ namespace Pipelines
                 {
                     foreach (var item in buffer1.GetConsumingEnumerable())
                     {
+                        Console.WriteLine(buffer1.Count());
                         buffer2.Add(item.ToUpper());
                     }
                 }
@@ -79,6 +82,7 @@ namespace Pipelines
                 {
                     Parallel.ForEach(lines, (line) =>
                     {
+                        Console.WriteLine(buffer.Count());
                         buffer.Add(line);
                     });
                 }
