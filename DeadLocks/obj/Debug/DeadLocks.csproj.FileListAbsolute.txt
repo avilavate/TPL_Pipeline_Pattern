@@ -1,0 +1,6 @@
+C:\Users\admin\NG2\C#\Pipelines\DeadLocks\bin\Debug\DeadLocks.exe.config
+C:\Users\admin\NG2\C#\Pipelines\DeadLocks\bin\Debug\DeadLocks.exe
+C:\Users\admin\NG2\C#\Pipelines\DeadLocks\bin\Debug\DeadLocks.pdb
+C:\Users\admin\NG2\C#\Pipelines\DeadLocks\obj\Debug\DeadLocks.csprojResolveAssemblyReference.cache
+C:\Users\admin\NG2\C#\Pipelines\DeadLocks\obj\Debug\DeadLocks.exe
+C:\Users\admin\NG2\C#\Pipelines\DeadLocks\obj\Debug\DeadLocks.pdb

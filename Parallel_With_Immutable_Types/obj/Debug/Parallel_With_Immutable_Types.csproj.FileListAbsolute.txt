@@ -1,0 +1,6 @@
+C:\Users\admin\NG2\C#\Pipelines\Parallel_With_Immutable_Types\bin\Debug\Parallel_With_Immutable_Types.exe.config
+C:\Users\admin\NG2\C#\Pipelines\Parallel_With_Immutable_Types\bin\Debug\Parallel_With_Immutable_Types.exe
+C:\Users\admin\NG2\C#\Pipelines\Parallel_With_Immutable_Types\bin\Debug\Parallel_With_Immutable_Types.pdb
+C:\Users\admin\NG2\C#\Pipelines\Parallel_With_Immutable_Types\obj\Debug\Parallel_With_Immutable_Types.exe
+C:\Users\admin\NG2\C#\Pipelines\Parallel_With_Immutable_Types\obj\Debug\Parallel_With_Immutable_Types.pdb
+C:\Users\admin\NG2\C#\Pipelines\Parallel_With_Immutable_Types\obj\Debug\Parallel_With_Immutable_Types.csprojResolveAssemblyReference.cache
